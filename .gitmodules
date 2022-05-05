@@ -1,0 +1,9 @@
+[submodule "zettelkasten-permanent"]
+	path = zettelkasten-permanent
+	url = git@github.com:zxinzhiniepan/zettelkasten-permanent.git
+[submodule "zettelkasten-literature"]
+	path = zettelkasten-literature
+	url = git@github.com:zxinzhiniepan/zettelkasten-literature.git
+[submodule "zettelkasten-fleeting"]
+	path = zettelkasten-fleeting
+	url = git@github.com:zxinzhiniepan/zettelkasten-fleeting.git
